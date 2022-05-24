@@ -1,4 +1,4 @@
-# 202205_GossipProject
+# 20220524_molecules
 
 ## Table of contents
 * [General info](#general-info)
